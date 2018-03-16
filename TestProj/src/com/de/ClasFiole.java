@@ -9,4 +9,11 @@ public class ClasFiole {
 	void getInfo() {
 
 	}
+
+	private void addXInfo() {
+	}
+	
+	private void delete() {
+
+	}
 }
