@@ -12,17 +12,20 @@ public class ClasFiole {
 
 	private void addXInfo() {
 	}
-	
+
 	private void delete() {
 
 	}
-	
+
 	private void addtofixc1() {
 
 	}
-	
+
 	private void xstream() {
 
 	}
-	
+
+	void adsasdasdasdasdas() {
+
+	}
 }
