@@ -20,4 +20,9 @@ public class ClasFiole {
 	private void addtofixc1() {
 
 	}
+	
+	private void xstream() {
+
+	}
+	
 }
