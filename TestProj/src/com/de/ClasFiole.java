@@ -10,6 +10,10 @@ public class ClasFiole {
 
 	}
 
+	private void naviagate() {
+		// TODO Auto-generated method stub
+
+	}
 
 	private void addtofixc1() {
 
